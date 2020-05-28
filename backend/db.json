@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Smart TV 4k Sansung",
+      "price": "2000",
+      "id": 3
+    },
+    {
+      "name": "Geladeira",
+      "price": "2500",
+      "id": 4
+    }
+  ]
+}
